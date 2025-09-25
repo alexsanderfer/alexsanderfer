@@ -2,7 +2,7 @@
 Hi, I’m @alexsanderfer<br>I’m interested in web-development <br>I’m currently learning React Native & ReactJS<br>I’m looking to collaborate on everything<br>How to reach me ... send me email on afgouveia90@gmail.com - I will stay waiting for your contact. :)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanderfer)](https://github.com/alexsanderfer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanderfer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/AlexsanderFGouveia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alexsanderfer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexsanderfer/)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/alexsander-fernandes) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nohzgul) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_alexsanderfer) 
