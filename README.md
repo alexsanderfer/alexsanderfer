@@ -42,4 +42,4 @@
 
 ### 💬 Vamos conversar?
 
-Me chama no [LinkedIn](www.linkedin.com/in/alexsanderfer) ou confira meus repositórios aqui no GitHub!
+Me chama no [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/alexsanderfer/) ou confira meus repositórios aqui no GitHub!
