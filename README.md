@@ -1,7 +1,10 @@
 <h1 align="center">👋 Hi! I am Alexsander</h1>
 
 <p align="center">
- I’m interested in web-development <br>I’m currently learning React Native & ReactJS<br>I’m looking to collaborate on everything<br>How to reach me ... send me email on afgouveia90@gmail.com - I will stay waiting for your contact. :) 
+ 💻 I'm passionate about mobile development, mainly focused on <b>Android (Java, Kotlin, and Jetpack Compose)</b>.<br>
+ 🍎 I also explore <b>iOS (Swift)</b>, <b>React Native</b>, and <b>Flutter</b> as secondary technologies.<br>
+ 🤝 I'm open to collaborating on interesting mobile or cross-platform projects.<br>
+ ✉️ How to reach me: send me an email at <b>afgouveia90@gmail.com</b> — I’ll be happy to connect!
 </p>
 
 ---
