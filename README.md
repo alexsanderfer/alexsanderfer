@@ -12,74 +12,9 @@
 ### 🚀 My Stacks
 
 <p align="center">
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=kotlin" />
-</a></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="TypeScript"/></code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=swift" />
-</a>
-</code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" title="TypeScript"/></code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=dart" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=typescript" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nextjs" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=windows" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vim" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=css" />
-</a>
-</code>
+<code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js" /></a></code>
 </p>
 
----
 
 ## 🛠️ My Tools
 <p align="center">
