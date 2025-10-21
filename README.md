@@ -19,30 +19,8 @@
 ## 🛠️ My Tools
 <p align="center">
 <code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=idea" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=androidstudio" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vscode" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postman" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=figma" />
-</a>
-</code>
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=photoshop" />
-</a>
-</code>
-</p>
+<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,postman,figma,photoshop" />
+</a></code></p>
 
 ---
 
