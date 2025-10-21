@@ -47,4 +47,4 @@
 
 ### 💬 Let's talk?
 
-Me chama no [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/alexsanderfer/) ou confira meus repositórios aqui no GitHub!
+Hit me up on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/alexsanderfer/) or check out my repositories here on GitHub!
