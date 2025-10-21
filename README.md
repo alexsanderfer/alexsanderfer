@@ -12,15 +12,15 @@
 ### 🚀 My Stacks
 
 <p align="center">
-<code><a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js,androidstudio&perline=9" /></a></code></p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js,androidstudio&perline=9" /></a></p>
 
 ## 🛠️ My Tools
 
 <p align="center">
-<code><a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,postman,figma,photoshop" />
-</a></code></p>
+</a></p>
 
 ---
 
