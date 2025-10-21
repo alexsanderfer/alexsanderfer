@@ -11,7 +11,7 @@
 
 ### 🚀 My Stacks
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js,androidstudio&perline=9" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js,androidstudio&perline=15" /></a>
 
 ## 🛠️ My Tools
 
