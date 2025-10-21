@@ -12,7 +12,7 @@
 ### 🚀 My Stacks
 
 <p align="center">
-<code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js" /></a></code>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js,androidstudio&perline=9" /></a>
 </p>
 
 
