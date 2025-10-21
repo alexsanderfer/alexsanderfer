@@ -13,14 +13,16 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js,firebase&perline=9" /></a></p>
+<img src="https://skills.syvixor.com/api/icons?i=android,kotlin,java,jetpackcompose,swift,expo,macos,ios,flutter,dart,typescript,react,next,nodejs,git,github,linux,windows,vim,html,css,js,firebase,sqlite,mysql&perline=8"></a></p>
+
 
 ## 🛠️ My Tools
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,postman,figma,photoshop" />
-</a></p>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=intellijidea,androidstudio,xcode,visualstudiocode,postman,figma,adobephotoshop,gimp,zshell,"/></a></p>
+
+
 
 ---
 
