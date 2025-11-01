@@ -36,6 +36,7 @@ Here are some of my main projects and apps:
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50">](LINK_URL_1) <br> **My Trucker Diary** | A mobile app designed for truck drivers to record trips, manage fuel logs, track expenses, and analyze routes with smart summaries and charts. |
 | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50">](LINK_URL_2) <br> **ShopListly App**   | A simple and intuitive shopping list app that helps users plan purchases, organize items by store or category, and share lists in real time.   |
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50">](LINK_URL_2) <br> **CashFlow**         | A app to help you track and organize your expenses and incomes (in future).                                                                    |
 
 </div>
 
